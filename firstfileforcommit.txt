@@ -1,2 +1,5 @@
 first line for commit
+<<<<<<< HEAD
 second line for commit
+=======
+>>>>>>> parent of f9a4e21 (text file modified)
